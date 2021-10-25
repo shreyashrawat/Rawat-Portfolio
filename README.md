@@ -11,3 +11,5 @@ I hope to understand the factors that lead to an impactful vizualisation and the
  
 This is where all my work goes.
 
+### Design Critique
+
