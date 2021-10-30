@@ -5,3 +5,7 @@
 ### A grid representation of Debt-to-GDP ratio country wise
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7644051"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Representation of Country wise Debt-to-GDP ratio is a heatmap
+
+<div class="flourish-embed flourish-heatmap" data-src="visualisation/7675721"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
