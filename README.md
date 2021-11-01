@@ -13,3 +13,5 @@ This is where all my work goes.
 
 ### Design Critique
 
+### [Visualizing Government Debt](/GovtDebtViz.md)
+
