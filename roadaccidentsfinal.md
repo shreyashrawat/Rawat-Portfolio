@@ -4,5 +4,6 @@
 
 ### Short Description
 The given graphic portrays the percentage of fatal accidents of the total occured accidents that have occured in the different states of India.
-You can check these data for various years and the exact data can be known by hovering over the particular state. \n
+You can check these data for various years and the exact data can be known by hovering over the particular state.
+
 The data represented = (Number of fatal accidents)/(Total number of accidents) * 100
