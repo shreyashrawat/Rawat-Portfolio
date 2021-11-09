@@ -1,6 +1,8 @@
-
+## Redesigning the Fatal accidents graphic
 
 While selecting the visualization, I really wanted to take a viz that reaches out to a huge number of people and displays relevant information to the public. Hence, the chosen viz is from the website of government of India that displays the total number of fatal accidents according to the states and Union Territories. This is the most widely reachable visualization and has not been critiqued by people. 
+
+![Original Graphic](visualisation.png)
 
 [Link to viz](https://visualize.data.gov.in/?inst=5c768e13-f1ce-4a84-a276-a03be6b918bd&vid=100261)
 
