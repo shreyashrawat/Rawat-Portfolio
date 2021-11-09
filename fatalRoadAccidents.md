@@ -31,4 +31,4 @@ The blue color scheme showing the safety of the states is not a very accurate re
 According to the feedback received, I decided to go ahead with the map instead of the bar chart for good reasons. First, the motive of this viz is to provide the most accident-prone states of India and the map does that for us in an easy to interpret and easy manner. The map gives us the extra advantage of also seeing the regions in the graph according to the road accidents (For example, is the southern part of India more safer than the northern part of the country). The comparison over the years is not the main objective and hence, that option is available to the users using a easy to use drop down menu to select the years.
 Also, instead of reversing the color scheme and displaying the blue color for the safest states, it is better to show the most accident prone states in dark red. This provides a more important and strong message and also complies with the title of the viz better.
 
-[Link to my final viz](roadaccidentsfinal.md)
+[Link to my final viz](/roadaccidentsfinal.md)
