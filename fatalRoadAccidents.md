@@ -34,3 +34,7 @@ According to the feedback received, I decided to go ahead with the map instead o
 Also, instead of reversing the color scheme and displaying the blue color for the safest states, it is better to show the most accident prone states in dark red. This provides a more important and strong message and also complies with the title of the viz better.
 
 [Link to my final viz](/roadaccidentsfinal.md)
+
+### Summary
+
+The one thing that really stood out to me about the chosen graphic is the data that was presented. The data showed in the graphic consisted of the objective number of fatal accidents that may portray a wrong story from the graphic. Hence, the first part included to get the total number of accidents occuring in each of the states from the same governemnt website so that I can represent the same data in terms of percentages which would give a much better and accurate representation of the message. Next, when it came to the representation of the data, the map gives us a better picture as you can get some additional patterns to see the safety regions of the country according to the geographical location. Changing the interactivity to a simple dropdown and experimenting with the color scheme, the red color scheme gives a stronger message and hence portrays the message clearly and strongly. There was also some cleaning done when it comes to the labelling of the states on the maps that caused unnecessary clutter.
