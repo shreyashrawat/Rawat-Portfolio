@@ -18,4 +18,4 @@ to educate themselves about how our economy works and how to maintain a good rel
 
 ## Initial Sketches
 
-[Initial Sketches](initial_sketches.jpeg)
+![Initial Sketches](initial_sketches.jpeg)
