@@ -18,4 +18,17 @@ to educate themselves about how our economy works and how to maintain a good rel
 
 ## Initial Sketches
 
-![Initial Sketches](initial_sketches.jpeg)
+![Initial Sketches](sk2.jpeg)
+
+![Initial Sketches](sk1.jpeg)
+
+## Data
+
+The dataset has been taken by the World bank which contains data about various countries and their financial habits according to the incomes that will allow me to incur patterns between literacy and eceonomic development.
+
+[Link to the dataset](https://globalfindex.worldbank.org/sites/globalfindex/files/2018-08/Global%20Findex%20Database.xlsx)
+
+## Method and Medium
+
+I plan to use Shorthand to complete the one paged website for the purpose of this story. I am planning to use Flourish and Tableau to implement my visualizations and websites
+like Unsplash to bring in some images for this purpose. 
