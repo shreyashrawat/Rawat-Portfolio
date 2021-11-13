@@ -5,7 +5,7 @@ in financial literacy in countries and what a profound impact it plays on the co
 our parent's generation, relying on our parents to teach us about managing money is not the most lucrative option and hence, I would like to appeal to educate everyone on it's
 importance and impact.
 
-Proposed Structure
+## Proposed Structure
 
 I would like to start this story by something like "Would you ignore a relationship which you know will inevitably affect you?". This is aimed to gather the attention of the crowd 
 after which I will spill the concept of money around it. I would like to convey to the audience that no matter what you think about money, having a good relationship with it
@@ -16,3 +16,6 @@ I then wish to showcase the importance of financial literacy by showing the patt
 part in it. A call to action would be presented at the last that focusses on having a few compulsory courses on finance for every student in the world and also, push people 
 to educate themselves about how our economy works and how to maintain a good relationship with your money.
 
+## Initial Sketches
+
+[Initial Sketches](initial_sketches.jpeg)
