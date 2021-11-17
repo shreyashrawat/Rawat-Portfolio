@@ -12,6 +12,8 @@ after which I will spill the concept of money around it. I would like to convey 
 is of utmost importance because not having one will affect you in the future. I am to show some vizualisations talking about the financial literacy in countries, some financial 
 patterns that young adults use today and explain why is it not a good advice to learn to manage money from your parents.
 
+![Roadmap](roadmap.jpeg)
+
 I then wish to showcase the importance of financial literacy by showing the patterns in countries that have done well economically and why financial literacy holds such an important
 part in it. A call to action would be presented at the last that focusses on having a few compulsory courses on finance for every student in the world and also, push people 
 to educate themselves about how our economy works and how to maintain a good relationship with your money.
