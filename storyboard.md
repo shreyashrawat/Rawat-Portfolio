@@ -5,6 +5,8 @@ It's as simple as that.
 
 ## An evitable relationship
 
+### Life without Money is miserable!!
+
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7878960"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Source - https://www.kaggle.com/unsdsn/world-happiness/version/2
@@ -31,4 +33,12 @@ divided country wise and is further divided into different income levels.
 <div class="flourish-embed flourish-chart" data-src="visualisation/7856350"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 The visualization shows some major companies in different income levels and their respective results according to the different questions asked.
+
+## Some demographics on the survey
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/7885233"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+This visualization was created from the same survey data that was previously used. This clearly shows us that there is a huge gap in financial literacy between men and women.
+This gap is not only present in the lower income countries but also in the educated economically developed countries as well. It is of utmost importance to take measures that 
+ensures equal financial literacy and make people more responsible with thier money.
 
