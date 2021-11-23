@@ -33,6 +33,7 @@ A short survey was conducted that asked 3 very simple questions about compound i
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7856350"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
 The visualization shows some major companies in different income levels and their respective results according to the different questions asked. Although there is no clear pattern on the results of the survey according to the GDP of the countries, the average result is better in economically developed countries which re-instates the fact that richer countries have citizens that know more about their financial decisions and how their economy works. 
 
 ## Some demographics on the survey
@@ -47,3 +48,26 @@ This visualization clearly portrays the huge gap in financial literacy between m
 This gap is not only present in the lower income countries but also in the educated economically developed countries. It is of utmost importance to take measures that 
 ensures equal financial literacy and make people more responsible with thier money.
 
+## User Research
+
+This part of the process required me to present my storyboard to the people, wherein I talk about my topic, the graphics that I have embedded in the visualization, connection to my story and then the proposed call to action. The feedback from people were as follows
+
+Person 1:
+
+I would want to see the comparative visualizations on a single graphic. The different categories of countries according to income make it a little hard to compare when I can only see one category of countries. The comparision would be much more easier if I could see all the categories of countries and take a common metric like average score or metric. 
+
+To connect a flow for the story, it would be better to show a chain of causal correlation of attributes. For example, increased financial literacy leads to increased GDP of the country which in turn leads to increase in the happiness score of the country. 
+
+Person 2:
+
+The last graphic that shows the difference in the financial knowledge between men and women does not have a good color scheme. The red and green color scheme is not displaying the right story as red for female is not a good representation even if that is the main point of the story.
+
+The story needs to be re-structured a little. For instance, start with where people are at and where do you expect them to go. A clear call to action at the last is required.
+
+Person 3:
+
+You can show some major numeric statistics in a clear visualization. For example, you can say that the overall financial literacy is around 55% in a big bubble to highlight the major point and make the story more clearer. 
+
+The last dot point graph can be sorted according to the minimum or maximum value to make it more readable and easy to the eye.
+
+You can also try to figure out the reason behind the low financial literacy in poorer countries. It can be due to lesser education overall or not giving enough importance to matters related to money. Having a clear call to action.
