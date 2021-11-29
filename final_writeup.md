@@ -15,7 +15,7 @@ concerned to exploring behaviors to highlight some major discrepencies and final
 The audience for this presentation is literally anyone on the planet because no matter how oblivious you are towards money, you will get affected. Hence, it is better to know 
 about the basic concepts that you are dealing with on a daily basis and make much more informed decisions.
 
-Final Data Story - 
+Final Data Story - https://carnegiemellon.shorthandstories.com/financial-literacy-broken-down/index.html
 
 ## References
 
