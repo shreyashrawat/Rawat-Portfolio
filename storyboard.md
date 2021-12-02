@@ -71,3 +71,7 @@ You can show some major numeric statistics in a clear visualization. For example
 The last dot point graph can be sorted according to the minimum or maximum value to make it more readable and easy to the eye.
 
 You can also try to figure out the reason behind the low financial literacy in poorer countries. It can be due to lesser education overall or not giving enough importance to matters related to money. Having a clear call to action.
+
+[Back to Part 1](/final_project_ShreyashRawat.md)
+
+[Go to Part 3](/final_writeup.md)
