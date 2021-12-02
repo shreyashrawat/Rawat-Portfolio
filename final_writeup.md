@@ -31,7 +31,7 @@ financial literacy between men and women. The suprising part was that the data t
  The journey from the intial prototype to the final outcome was a very iterative process. Feedback from people was one of the main points that helped me recognize my biases,
  mistakes that I overlooked and gave me a third person perspective. Learning to use the tools like flourish, tableau, shorthand etc was very helpful that allowed us to explore the available options for visualizing our specific kind of data. To connect to the audience, I even tries creating a personalized story of a woman to show how inflation might affect a person even though they are very oblivious about money.
 
-Final Data Story - https://carnegiemellon.shorthandstories.com/financial-literacy-broken-down/index.html
+[Final Data Story](https://carnegiemellon.shorthandstories.com/financial-literacy-broken-down/index.html)
 
 ## References
 
