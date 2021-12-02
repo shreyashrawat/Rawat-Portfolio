@@ -34,3 +34,5 @@ The dataset has been taken by the World bank which contains data about various c
 
 I plan to use Shorthand to complete the one paged website for the purpose of this story. I am planning to use Flourish and Tableau to implement my visualizations and websites
 like Unsplash to bring in some images for this purpose. 
+
+[!Link to PArt 2](/roadmap.md)
