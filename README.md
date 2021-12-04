@@ -12,9 +12,12 @@ I hope to understand the factors that lead to an impactful vizualisation and the
 
 ### Design Critique
 
+### [Covid Data Viz](/covid.md)
+
 ### [Visualizing Government Debt](/GovtDebtViz.md)
 
 ### [Road Accidents Fatality](/fatalRoadAccidents.md)
 
 ### [Final Project](/final_project_ShreyashRawat.md)
+
 
